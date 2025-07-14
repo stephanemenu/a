@@ -5,7 +5,7 @@
 lrgImg={
 
 mnCnt:null,
-nmbrOfPics:[0,3,3,3,3,3,3,3,3,7],
+nmbrOfPics:[0,4,4,3,8,3,2,6,5,4],
 sourc : null,
 lrgImgCont:null,
 licEght:null,
